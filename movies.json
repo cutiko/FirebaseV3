@@ -1,0 +1,44 @@
+{
+  "01" : {
+    "genre" : "Drama",
+    "name" : "the godfather",
+    "score" : "9.4",
+    "year" : "1972"
+  },
+  "02" : {
+    "genre" : "Drama",
+    "name" : "The shawshank redemption",
+    "score" : "7",
+    "year" : "1994"
+  },
+  "03" : {
+    "genre" : "Drama",
+    "name" : "Schindler list",
+    "score" : "10",
+    "year" : "1993"
+  },
+  "04" : {
+    "genre" : "Action",
+    "name" : "Raging bull",
+    "score" : "8",
+    "year" : "1980"
+  },
+  "05" : {
+    "genre" : "Romance",
+    "name" : "Casablanca",
+    "score" : "8.5",
+    "year" : "1942"
+  },
+  "06" : {
+    "genre" : "Action",
+    "name" : "The Dark Knight ",
+    "score" : "6",
+    "year" : "2008"
+  },
+  "07" : {
+    "genre" : "horror",
+    "name" : "Alien 3",
+    "score" : "9.5",
+    "year" : "1998"
+  }
+}
